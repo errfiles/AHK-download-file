@@ -1,2 +1,1 @@
-# DDLC-download
-Download DDLC
+# This repository was created just for Downloading files
